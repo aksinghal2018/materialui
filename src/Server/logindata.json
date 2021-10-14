@@ -1,0 +1,6 @@
+{
+  "logindata":[
+	{"id":"0","name":"admin@gmail.com","password":"smith123"},
+	{"id":"1","name":"john@gmail.com","password":"john123"}
+]
+}

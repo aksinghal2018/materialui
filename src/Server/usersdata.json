@@ -1,0 +1,9 @@
+{
+  "userdata":[{
+    "id":"0","name":"smith","department":"sales","salary":"20000","experience":"2","image":"profile.png"
+  },
+  {
+    "id":"1","name":"john","department":"tech","salary":"20000","experience":"2","image":"profile1.jpg"
+  }
+]
+}
